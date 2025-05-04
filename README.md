@@ -28,13 +28,6 @@ Power BI Desktop
 DAX for measures and calculated columns
 Power Query for data transformation
 
--> File Structure
-📁 Ecommerce-Sales-Dashboard
-│
-├── 📊 EcommerceDashboard.pbix          # Power BI dashboard file
-├── 📷 DashboardPreview.png             # Preview image of the dashboard
-└── 📝 README.md                        # Project description and details
-
 -> Features
 Track sales and profit trends monthly
 Identify top-performing states and customers
